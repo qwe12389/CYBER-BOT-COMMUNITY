@@ -58,6 +58,12 @@ OWNER OF —͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻�
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![CYBER](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)                                                          
+  
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=☣️+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+𝐂𝐘𝐁𝐄𝐑+ULLASH+💀">
+
 <h3><b><i> Contact me in Touch :</i></b></h3>
 <a href="https://github.com/cyber-ullash"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
 <a href="https://www.facebook.com/100015168369582"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
